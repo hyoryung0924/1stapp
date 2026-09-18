@@ -7,7 +7,7 @@ import random
 # 페이지 설정
 st.set_page_config(
     page_title="인터랙티브 삼각함수 마스터",
-    page_layout="wide",
+    layout="wide",
     initial_sidebar_state="expanded"
 )
 
